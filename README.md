@@ -1,4 +1,4 @@
-[!MasterHead](https://miro.medium.com/v2/resize:fit:740/1*6MYUqceqlLewavjqkoJy7g.png)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:740/1*6MYUqceqlLewavjqkoJy7g.png)](https://kumari.io)
 <h1 align="center">Hi 👋, I'm Kumari . S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://camo.githubusercontent.com/08379040ed04c695c89593ee75845b3bcfd057b7a5c3e945d8dd18fa9d74c33b/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565" alt="Hero_image">
